@@ -204,3 +204,12 @@ The test suite validates:
 - Additional Kodak & community recipes created by **Justin Gould** at [film.recipes](https://film.recipes/).
 - Template converter methodology inspired by **[plamf/fuji-x-weekly-simulation-profiles](https://github.com/plamf/fuji-x-weekly-simulation-profiles)**.
 - All profiles are for personal use with Fujifilm cameras and Fujifilm X Raw Studio.
+
+### Trademarks & Nominative Fair Use
+- **Fujifilm**, **X-Trans**, **Provia**, **Velvia**, **Astia**, and **Acros** are registered trademarks of FUJIFILM Corporation.
+- **Kodak**, **Kodachrome**, **Kodacolor**, **Portra**, **Ektar**, **Tri-X**, and **Gold** are registered trademarks of Eastman Kodak Company.
+- **Ilford** and **HP5** are registered trademarks of Harman Technology Limited.
+- **Agfa** and **Scala** are registered trademarks of Agfa-Gevaert Group.
+- **CineStill** is a registered trademark of CineStill Inc.
+
+All brand and film names used in this repository are referenced strictly for **nominative descriptive purposes** to identify the historical photographic film stocks being visually emulated. This open-source project is independent and is not affiliated with, sponsored by, or endorsed by FUJIFILM Corporation, Eastman Kodak Company, or any of the respective trademark holders.
