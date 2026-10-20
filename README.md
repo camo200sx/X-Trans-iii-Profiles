@@ -4,6 +4,8 @@ A collection of **59 Film Simulation Profiles** (`.FP1`) for **Fujifilm X Raw St
 
 Includes the full library from **[Fuji X Weekly](https://fujixweekly.com/)** and **[film.recipes](https://film.recipes/)**, including the complete **Kodak Gold** suite, Kodacolor classics, Portra, Kodachrome, and Acros/Monochrome black-and-white stocks.
 
+![Fujifilm X Raw Studio Preview](assets/x-raw-studio-preview.png)
+
 ---
 
 ## 📷 Supported Cameras
