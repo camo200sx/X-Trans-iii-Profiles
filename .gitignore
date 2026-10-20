@@ -1,0 +1,26 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output directories containing camera-specific stamped profiles
+converted/
+Fuji X Weekly Recipes/X-Trans III/converted/
+
+# Local backups and cache
+backups/
+cache/
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Environments and logs
+venv/
+.venv/
+env/
+*.log
